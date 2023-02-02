@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shenxiang216
-- 👀 I’m interested in TypeSctipt、React
+- 👀 I’m interested in TypeSctipt、React、Nextjs
 - 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on docsify
+- 💞️ I’m looking to collaborate on Nodejs
 - 📫 Good Luck!
